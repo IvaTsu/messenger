@@ -1,0 +1,14 @@
+{
+  "name": "messenger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/andrewmarushko/messenger.git",
+  "author": "Andrew Marushko <andrewmarushko@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-3": "^6.24.1",
+    "nodemon": "^1.18.3"
+  }
+}
